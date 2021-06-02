@@ -1,5 +1,5 @@
 # RDFox Scripts 2
-This repository is a companion to an article on Medium and explains how to write scripts for RDFox - an in-memory knowledge graph and reasoning engine created by Oxford Semantic Technologies.
+This repository is a companion to [this](https://medium.com/oxford-semantic-technologies/writing-rdfox-scripts-ff6c4a4485a5) article on Medium that explains how to write scripts for RDFox - an in-memory knowledge graph and reasoning engine created by Oxford Semantic Technologies.
 
 ## Getting started with RDFox
 You can read about getting started with RDFox in [this](https://medium.com/oxford-semantic-technologies/getting-started-with-rdfox-79adbbfa86b1) article.
